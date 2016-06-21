@@ -1,0 +1,14 @@
+layout_spectrum: 0.9260952
+typography_spectrum: 0.4169338
+color:
+  saturation: 0.4916755
+  lightness: 0.5793806
+  brandStrength: 0.34006
+  rhythmicContrast: 0.156537
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+name: Pitch
